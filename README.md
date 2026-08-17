@@ -38,9 +38,7 @@ Both minimum requirements are satisfied: 19 features (≥ 12 required) and
 
 ## c. GitHub Repository Link
 
-`https://github.com/<your-username>/<your-new-repo-name>` — replace with your
-actual repo URL once created (e.g. `telco-churn-ml-assignment2`), then also
-paste it into the submission PDF.
+`https://github.com/ashkun1998/Telco-Customer-Churn`
 
 ## d. Models Used
 
@@ -127,7 +125,6 @@ streamlit run app.py
 
 ## Live Deployment
 
-- **Streamlit App:** `https://<your-app-name>.streamlit.app` — replace with
-  your actual Streamlit Community Cloud URL after deploying, then paste it
-  into the submission PDF.
+- **Streamlit App:** `https://telco-customer-churn-2025ac05243.streamlit.app/`
 - **BITS Virtual Lab execution screenshot:** included in the final submission PDF.
+- ![Project Screenshot](images/Screenshot-2026-08-17-224502.png)
