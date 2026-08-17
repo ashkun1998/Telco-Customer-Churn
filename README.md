@@ -127,4 +127,4 @@ streamlit run app.py
 
 - **Streamlit App:** `https://telco-customer-churn-2025ac05243.streamlit.app/`
 - **BITS Virtual Lab execution screenshot:** included in the final submission PDF.
-- ![Project Screenshot](images/Screenshot-2026-08-17-224502.png)
+- ![Project Screenshot](images/Screenshot-2026-08-18-004952.png)
